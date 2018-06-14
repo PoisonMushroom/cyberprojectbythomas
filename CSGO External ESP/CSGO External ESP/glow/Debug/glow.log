@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (glow.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+c:\users\thomas\desktop\gta5playlist\csgo external esp\glow\main.cpp(377): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\thomas\desktop\gta5playlist\csgo external esp\glow\main.cpp(361): warning C4715: 'IsDead': not all control paths return a value
+c:\users\thomas\desktop\gta5playlist\csgo external esp\glow\main.cpp(343): warning C4715: 'GetTeam': not all control paths return a value
+c:\users\thomas\desktop\gta5playlist\csgo external esp\glow\main.cpp(329): warning C4715: 'GetCrosshairId': not all control paths return a value
+c:\users\thomas\desktop\gta5playlist\csgo external esp\glow\main.cpp(352): warning C4715: 'GetTeam': not all control paths return a value
+  glow.vcxproj -> C:\Users\Thomas\Desktop\gta5playlist\CSGO External ESP\Debug\src.exe
